@@ -27,7 +27,7 @@ Make sure you have the following prerequisites installed on your system:
   - Open a terminal and navigate to the project directory.
   - Run the script using the following command:
       ```bash
-      python weather_app.py
+      python weatherapp.py
       ```
   - Enter the name of the city when prompted.
       ```bash
