@@ -13,8 +13,8 @@ Make sure you have the following prerequisites installed on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/weather-information-app.git
-   cd weather-information-app
+   git clone https://github.com/thevoidop/weatherapp.git
+   cd weatherapp
    ```
 2. **Get API Key:**
   - Obtain your Weatherstack API key by signing up at Weatherstack.
